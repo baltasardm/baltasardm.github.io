@@ -1,0 +1,126 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url('fondo.jpg');
+}
+
+.form-register {
+  width: 400px;
+  background: #100952;
+  padding: 30px;
+  margin: auto;
+  margin-top: 100px;
+  border-radius: 4px;
+  font-family: 'calibri';
+  color: white;
+  
+}
+
+.form-register h4 {
+  font-size: 22px;
+  margin-bottom: 20px;
+}
+
+.controls {
+  width: 100%;
+  background: #495008da;
+  padding: 10px;
+  border-radius: 4px;
+  margin-bottom: 16px;
+  border: 1px solid #c5ac1f;
+  font-family: 'calibri';
+  font-size: 18px;
+  color: white;
+}
+
+.form-register p {
+  height: 40px;
+  text-align: center;
+  font-size: 18px;
+  line-height: 40px;
+}
+
+.form-register a {
+  color: white;
+  text-decoration: none;
+}
+
+.form-register a:hover {
+  color: white;
+  text-decoration: underline;
+}
+
+.form-register .botons {
+  width: 100%;
+  background: #c2c51f;
+  border: none;
+  padding: 12px;
+  color: white;
+  margin: 16px 0;
+  font-size: 16px;
+}
+header{
+  font-family: arial, helvetica;
+  background: #070b4600;
+  background-color: #070b4600;
+  border-style: solid;
+  border-color: #070b4600;
+  border-width: 23px;
+
+
+  
+  
+
+}
+.menu img{
+  border-width: 10px;
+
+}
+.menu{
+  list-style: none;
+  padding: 0;
+  background: #070b46;
+  width: 90%;
+  max-width: 1000px;
+  margin: auto;
+  border-style: solid;
+  border-width: 15px;
+  border-color: rgba(255, 255, 0, 0);
+  
+
+}
+.menu li a{
+  text-decoration: none;
+  color: white;
+  padding: 20px;
+  display: block;
+
+}
+.menu li{
+  display: inline-block;
+  text-align: center;
+}
+.menu li a:hover{
+  background: #eaec41;
+}
+.menu li a{
+  margin-left: 120px;
+}
+.item{
+  float: left;
+
+
+}
+.nacionales{
+color: yellow;
+}
+body{
+  background-image: url(bocawall.jpg);
+
+.item
+  float: left;
+}

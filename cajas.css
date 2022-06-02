@@ -1,0 +1,104 @@
+.escudo{
+	display: flex;
+	justify-content: center;
+	width: 300px;
+	height: 350px;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+.escudo img{
+	width: 300px;
+	height: 350px;
+}
+.estirar{
+display: flex;
+	justify-content: center;	
+}
+.caja1 {
+	background-color: rgba(21, 11, 66, 0.295);
+	width: 450px;
+	height: 680px;
+	float: left;
+	
+}
+.caja2 {
+	background-color: rgba(21, 11, 66, 0.295);
+	width: 450px;
+	height: 680px;
+	float: left;
+}
+.internacionales{
+	background-color: rgba(21, 11, 66, 0.904);
+	border-style:1px solid;
+	border-color: white;
+	color: #ffffff;
+	box-shadow: 5px 5px 10px 20px rgb(21, 11, 66, 0.904);
+} 
+ p {
+	text-align: center;
+}
+header{
+	font-family: arial, helvetica;
+	background: #070b4600;
+	background-color: #070b4600;
+	border-style: solid;
+	border-color: #070b4600;
+	border-width: 23px;
+
+
+	
+	
+
+}
+.menu img{
+	border-width: 10px;
+
+}
+.menu{
+	list-style: none;
+	padding: 0;
+	background: #070b46;
+	width: 90%;
+	max-width: 1000px;
+	margin: auto;
+	border-style: solid;
+	border-width: 15px;
+	border-color: rgba(255, 255, 0, 0);
+	
+
+}
+.menu li a{
+	text-decoration: none;
+	color: white;
+	padding: 20px;
+	display: block;
+
+}
+.menu li{
+	display: inline-block;
+	text-align: center;
+}
+.menu li a:hover{
+	background: #eaec41;
+}
+.menu li a{
+	margin-left: 120px;
+}
+.item{
+	float: left;
+
+
+}
+.nacionales{
+color: yellow;
+}
+body{
+	background-image: url(wallpaperboca.jpg);
+	background-color: rgb(70, 70, 70);
+	background-blend-mode: soft-light;
+
+.item
+	float: left;
+}

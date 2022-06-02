@@ -1,0 +1,31 @@
+body{
+	background-image: url(bocawall.jpg); 
+	color: #000000;
+	
+}
+
+header{
+	background-color: #070b46;
+	border-style: solid;
+	border-width: 5px;
+	height: 400px;
+
+}
+a{
+	color: rgb(255, 255, 255);
+}
+main{
+	width: 75%;
+}
+.resaltado{
+	background-color: #101153d0;
+	color: rgb(255, 255, 255);
+}
+footer{
+	border-top-style: solid;
+	margin: 30
+	px;
+
+	
+
+}
